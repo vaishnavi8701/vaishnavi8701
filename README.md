@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there🖐, Welcome to My Repository ✨
+
+🔭 I am an Aspiring Full Stack developer and Data Scientist.
+⚡ Fun fact: Working towards my dream doesn't bore up ur life.
