@@ -20,4 +20,4 @@ Hi there🖐, Welcome to My Repository ✨
 🔭 I am an Aspiring Full Stack developer and Data Scientist.
 
 
-⚡ Fun fact: Working towards my dream doesn't bore up ur life.
+⚡ Fun fact: Working towards the dream doesn't bore up the life.
