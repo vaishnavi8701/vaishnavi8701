@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 Hi there🖐, Welcome to My Repository ✨
 
-🔭 I am an Aspiring Full Stack developer and Data Scientist.
-
-
 ⚡ Fun fact: Working towards the dream doesn't bore up the life.
